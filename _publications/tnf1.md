@@ -33,3 +33,7 @@ proliferation. These combinations causing phenotype
 switching could be potential targets for TNFα based
 therapeutic strategies.
 
+### Citation
+'<b>Hrushikesh Loya</b>, Shubhank Sherekar, Sonal Manohar, Reshma Patil, Ganesh Viswanathan (2019). &quot;Phenotype Switching during Tumor Necrosis Factor alpha signalling; 2019 Jun 3-7; California, USA</i>.'
+
+[Paper Link](https://2019tnfconference.org/scientific-program-1)
