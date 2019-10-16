@@ -58,7 +58,7 @@ Teaching Experience
 
 Campus Activities & Positions held
 ======
-* [Biotech Club Manager](https://stab-iitb.org/Institute Technical Council)
+* Biotech Club Manager, [Institute Technical Council](https://stab-iitb.org/)
   * Part of 55 member council responsible for developing and promoting technical activities in institute
   * Headed team of 3 conveners with aim of promoting events and projects in interdisciplinary Biology
 * Marketing Coordinator, [Techfest](https://techfest.org/)
