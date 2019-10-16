@@ -1,21 +1,36 @@
 ---
-title: "Pixel-wise Segmentation of Right Ventricle of Heart"
+title: "Phenotype Switching during Tumor Necrosis Factor alpha signalling"
 collection: publications
-permalink: /publication/rad_tencon
-date: 2019-08-20
-excerpt: This paper proposes a deep learning based method for the accurate segmentation of right ventricle, which does not require post-processing and yet it achieves the state-of-the-art performance of 0.86 Dice coefficient and 6.73 mm Hausdorff distance on RVSC-MICCAI 2012 dataset.
-venue: 'IEEE TENCON'
+permalink: /publication/tnf1
+date: 2019-05-15
+excerpt: This paper identifies few components present in TNFa signalling which when perturbed leads to phenotype switch. It uses graph-theory based based dimensionality reduction technique to identify the candidates.
+venue: 'TNF Superfamily'
 image: 'fig3_2.png'
 ---
-One of the first steps in the diagnosis of most cardiac diseases, such as pulmonary hypertension, coronary heart disease is the segmentation of ventricles from cardiac magnetic resonance (MRI) images. Manual segmentation of the right ventricle requires diligence and time, while its automated segmentation is challenging due to shape variations and illdefined
-borders. We propose a deep learning based method for the accurate segmentation of right ventricle, which does not
-require post-processing and yet it achieves the state-of-the-art performance of 0.86 Dice coefficient and 6.73 mm Hausdorff
-distance on RVSC-MICCAI 2012 dataset. We use a novel adaptive cost function to counter extreme class-imbalance in the dataset.
-We present a comprehensive comparative study of loss functions, architectures, and ensembling techniques to build a principled
-approach for biomedical segmentation tasks.
+Tumor Necrosis Factor alpha (TNFα) is a pleiotropic
+cytokine involved in phenotypic decisions such as
+apoptotic/necrotic death, proliferation. Aberrant TNFα
+signaling is implicated in numerous pathological
+conditions. Designing therapeutic strategies to modulate
+these conditions require insights into the mechanisms
+governing context-specific phenotypic response to TNFα.
+Signal transduction culminating in such responses is
+orchestrated by underlying molecular network of nodes
+interconnected by edges. Using a comprehensive, well-
+annotated, manually curated TNF-α signaling network,
+we show that a graph-theory based dimensionality
+reduction via modularization can lead to functionally
+consistent, conserved modules in the network. We
+identify 19 candidates which when knocked down one-at-
+a-time significantly disturbs the network robustness yet
+preserves network modularity. Boolean dynamic
+simulations and attractor analysis of the underlying state
+transition graph show that targeting cIAP1/2 and MKRN1
+can lead to reliable phenotype switching from
+proliferation to apoptosis. Knocking off BAX-BAK and
+LUBAC may result in switching from apoptosis to
+proliferation. These combinations causing phenotype
+switching could be potential targets for TNFα based
+therapeutic strategies.
 
-### Citation 
-
-'Dang, Y., <b>Anand, D.</b>, and Sethi, A. (2019). &quot;Pixel-wise Segmentation of Right Ventricle of Heart.&quot; <i>IEEE TENCON 2019.</i><b>(Equal contribution by Dang Y. and Anand D.)</b>.'
-
-[Paper Link](/images/rad_tencon.pdf "Radiology IEEE TENCON")
+[Paper Link](/images/tnf1.pdf "TNF Superfamily, 2019")
