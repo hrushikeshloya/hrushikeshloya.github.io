@@ -12,7 +12,7 @@ My name is Hrushikesh Loya, and I am a Undergraduate in the [Department of Elect
 I maintain a list of my publications and research implementations under the [Publications]({{ site.url }}/publications) tab. To get an insight into my professional life so far, you can have a look at my [CV](/images/Deepak_Anand_IITB_oct.pdf).
 
 ## Updates
-* <b>Oct 2019:</b> Awarded Best Poster Award for "Phenotype Switching during TNF$\alpha$ - TNRF1 Signaling" at NGBT, 2019
+* <b>Oct 2019:</b> Awarded Best Poster Award for "Phenotype Switching during TNFa - TNRF1 Signaling" at NGBT, 2019
 
 * <b>Sep 2019:</b> A paper "A Bayesian framework to quantify survival uncertainty" got accepted for ESMO MAP 2019
 
