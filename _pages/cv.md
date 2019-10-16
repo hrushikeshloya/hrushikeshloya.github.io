@@ -21,19 +21,19 @@ Publications
   
 Research Experience
 ======
-* <b> Masters Thesis Project 2019-20</b>
+* <b> Masters Thesis Project</b> Apr '19 - Present
   * Medical Deep Learning and Artificial Intelligence Lab, IIT Bombay
   * Built an end-to-end pipeline for uncertainty estimation in cancer survival prediction using genomics information and some clinical features available in TCGA-BRCA
   * Supervisor: [Prof. Amit Sethi](https://www.ee.iitb.ac.in/~asethi/)
-* <b> Undergraduate Researcher 2018-19 </b>
+* <b> Undergraduate Researcher</b> Aug '18 - Sep '19
   * Mechanobiology lab, National University of Singapore
   * Stochastic and deterministic reaction diffusion modeling and in-vitro experiments help discover the positive feedback present in Rab5 activation switch
   * Supervisor: [Prof. Timothy Saunders](https://mbi.nus.edu.sg/timothy-saunders/)
-* <b> Undergraduate Researcher 2018-19 </b>
+* <b> Undergraduate Researcher</b> Dec' 17 - Dec' 18
   * Biomolecular Engineering Lab, IIT Bombay
   * Designed community detection algorithms which takes care of functional commonality of proteins in the hand-crafted protein-protein interaction network for TNF alpha signaling
   * Supervisor: [Prof. Ganesh Viswanathan](https://www.che.iitb.ac.in/online/faculty/ganesh-a-viswanathan)
-* <b> Visiting Researcher 2018-18 </b>
+* <b> Visiting Researcher</b> May '18 - Aug '18 
   * SLCU, University of Cambridge
   * Developed Image processing pipeline and computational spatio-temporal models to quantify and explain the red bull's pattern in Hibiscus Trionum petals
   * Supervisor: [Prof. Edwige Moyroud](https://www.slcu.cam.ac.uk/people/dr-edwige-moyroud)
@@ -49,10 +49,10 @@ Scholastic Achievements
 Teaching Experience
 ======
 * Teaching Assistant for following courses:
-  * <b>BB101</b>: Introduction to Biology          Spring, 2017
-  * <b>MA205</b>: Complex Analysis                 Autumn, 2018
-  * <b>MA207</b>: Partial Differential Equations   Autumn, 2018
-  * <b>EE308</b>: Communication Systems            Autumn, 2019
+  * <b>BB101</b>: Introduction to Biology          (Spring, 2017)
+  * <b>MA205</b>: Complex Analysis                 (Autumn, 2018)
+  * <b>MA207</b>: Partial Differential Equations   (Autumn, 2018)
+  * <b>EE308</b>: Communication Systems            (Autumn, 2019)
 
 Campus Activities & Positions held
 ======
