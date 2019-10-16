@@ -35,3 +35,8 @@ of MCF7 (breast cancer) and U937 (lymphoma) exhibiting the three
 distinct phenotypes. These combinations causing phenotype
 switching maybe considered potential targets for TNFα based
 therapeutic strategies. 
+
+### Citation
+'<b>Hrushikesh Loya</b>, Shubhank Sherekar, Sonal Manohar, Sharmila Biswas, Reshma Patil, Ganesh Viswanathan (2019). &quot;Phenotype Switching during TNFa - TNRF1 Signaling; 2019 Sep 30- Oct 2; Mumbai, India</i>.'
+
+[Paper Link](https://www.sgrfconferences.org/2019/NGBT/program.php)
