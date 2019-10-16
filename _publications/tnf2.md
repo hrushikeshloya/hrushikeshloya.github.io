@@ -5,7 +5,7 @@ permalink: /publication/tnf2
 date: 2019-10-15
 excerpt: Using graph theory based dimnesion reduction and boolean networks we identify key targets for phenotype switch in TNFa-TNRF Signaling Pathway
 venue: 'Nextgen Genomics, Biology, Bioinformatics and Technologies Conference 2019'
-image: 'tnf2.png'
+image: 'tnf-2.png'
 width: '800'
 ---
 Tumor Necrosis Factor alpha (TNFα) is a pleiotropic cytokine
