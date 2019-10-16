@@ -64,10 +64,10 @@ Campus Activities & Positions held
   * Assisted in setting up 150+ Diabetes Screening Camps to spread awareness among 100,000+ people
 * Volunteered in [National Social Service](https://nss.gov.in/), India to promote a green campus
 
-Key Courses
+Academic Domain
 ======
 
-| <b>Probability and Stats</b> |             Advanced Concentration Inequalities, Probabilistic Models, Probability and Random Processes, Data Analysis and Interpretation      |
-|   <b>Computer Science</b>  |       Data Structures and Algorithms, Operating Systems, Discrete Structures, Logic for Computer Science, Computer Vision and Pattern Recognition      |
-|   <b>Machine Learning</b>  |     Introduction to Fuzzy / Neural Systems, Science of Information, Statistics, \& Learning, Advanced Topics in Machine Learning               |
-|   <b>Biology</b>  |       Introduction to Biology, Introduction to Computational Biology, Medical Image Computing, Biopotentials I: Cellular Signals, Medical Sensors       |
+* <b>Probability and Stats: </b> Advanced Concentration Inequalities, Probabilistic Models, Probability and Random Processes, Data Analysis and Interpretation
+* <b>Computer Science: </b> Data Structures and Algorithms, Operating Systems, Discrete Structures, Logic for Computer Science, Computer Vision and Pattern Recognition
+* <b>Machine Learning:</b> Introduction to Fuzzy / Neural Systems, Science of Information, Statistics, \& Learning, Advanced Topics in Machine Learning               |
+* <b>Biology:</b> Introduction to Biology, Introduction to Computational Biology, Medical Image Computing, Biopotentials I: Cellular Signals, Medical Sensors       |
