@@ -42,17 +42,17 @@ Research Experience
 Scholastic Achievements
 ======
 * Recipient of the <b>Institute Academic Prize</b> at IIT Bombay 2017
-* Among <b>top 3<b/> in Electrical Engineering batch of 70 students
+* Among <b>top 3</b> in Electrical Engineering batch of 70 students
 * Awarded <b>TFI-LEaRN Scholarship</b> for semester exchange in NUS
 * Awarded an <b>A+ Grade</b> in 3 courses: Biopotential I, Computer Vision and Computational Biology
    
 Teaching Experience
 ======
 * Teaching Assistant for following courses:
-  * <b>BB101<b/>: Introduction to Biology          Spring, 2017
-  * <b>MA205<b/>: Complex Analysis                 Autumn, 2018
-  * <b>MA207<b/>: Partial Differential Equations   Autumn, 2018
-  * <b>EE308<b/>: Communication Systems            Autumn, 2019
+  * <b>BB101</b>: Introduction to Biology          Spring, 2017
+  * <b>MA205</b>: Complex Analysis                 Autumn, 2018
+  * <b>MA207</b>: Partial Differential Equations   Autumn, 2018
+  * <b>EE308</b>: Communication Systems            Autumn, 2019
 
 Campus Activities & Positions held
 ======
@@ -69,5 +69,5 @@ Academic Domain
 
 * <b>Probability and Stats: </b> Advanced Concentration Inequalities, Probabilistic Models, Probability and Random Processes, Data Analysis and Interpretation
 * <b>Computer Science: </b> Data Structures and Algorithms, Operating Systems, Discrete Structures, Logic for Computer Science, Computer Vision and Pattern Recognition
-* <b>Machine Learning:</b> Introduction to Fuzzy / Neural Systems, Science of Information, Statistics, \& Learning, Advanced Topics in Machine Learning               |
-* <b>Biology:</b> Introduction to Biology, Introduction to Computational Biology, Medical Image Computing, Biopotentials I: Cellular Signals, Medical Sensors       |
+* <b>Machine Learning:</b> Introduction to Fuzzy / Neural Systems, Science of Information, Statistics, \& Learning, Advanced Topics in Machine Learning 
+* <b>Biology:</b> Introduction to Biology, Introduction to Computational Biology, Medical Image Computing, Biopotentials I: Cellular Signals, Medical Sensors 
