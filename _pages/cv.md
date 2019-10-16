@@ -12,6 +12,8 @@ redirect_from:
 Education
 ======
 * <b>B.Tech + M.Tech</b> in Electrical Engineering (Specialization in Communication and Signal Processing), Indian Institute of Technology Bombay, 2020 
+  * GPA: 9.42/10
+  * Minor in Computer Science & Engineering
 
 Publications
 ======
