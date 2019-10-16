@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Deepak Anand"
+title                    : "Hrushikesh Loya"
 title_separator          : "-"
-name                     : &name "Deepak Anand"
-description              : &description "Ph.D. Scholar, IIT Bombay"
-url                      : ""# the base hostname & protocol for your site e.g. "https://deepakanandece.github.io"
+name                     : &name "Hrushikesh Loya"
+description              : &description "B.Tech + M.Tech, IIT Bombay"
+url                      : ""# the base hostname & protocol for your site e.g. "https://hrushikeshloya.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "deepakanandece.github.io"
+repository               : "hrushikeshloya.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Deepak Anand"
+  name             : "Hrushikesh Loya"
   avatar           : "bio-photo-1.jpg"
-  bio              : "Ph.D. Scholar, IIT Bombay (Mob: 8454912860)"
+  bio              : "B.Tech + M.Tech, IIT Bombay (Mob: 9769316234)"
   location         : "Mumbai"
   employer         : 
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=uqL12FYAAAAJ&hl=en&oi=ao"
-  email            : "deepakanandece@gmail.com"
+#   googlescholar    : "https://scholar.google.com/citations?user=uqL12FYAAAAJ&hl=en&oi=ao"
+  email            : "loyahrushikesh@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "/deepakanandece"
+  github           : "/hrushikeshloya"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "deepak-anand-945575162/"
-  orcid            : "https://orcid.org/0000-0001-7189-6885"
+  linkedin         : "hrushikesh-loya-a7a958109/"
+#   orcid            : "https://orcid.org/0000-0001-7189-6885"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
