@@ -11,8 +11,7 @@ redirect_from:
 
 Education
 ======
-* <b>Ph.D</b> in Electrical Engineering, Indian Institute of Technology Bombay, 2019 (expected)
-* <b>B.Tech.</b> in Electronics and Communication Engineering, Dr. M.G.R. Educational and Research Institute Chennai, 2012
+* <b>B.Tech + M.Tech</b> in Electrical Engineering (Specialization in Communication and Signal Processing), Indian Institute of Technology Bombay, 2020 
 
 Publications
 ======
@@ -20,46 +19,53 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Work experience
+Research Experience
 ======
-* <b> Lab Administrator 2014-19: Lab Administrator </b>
-  * Indian Institute of Technology Bombay
-  * Duties included: 
-    * Building deep learning servers
-    * Tutorials on PyTorch, TensorFlow, Python and GitHub
-    * Tutorials on best coding practices
-   * Supervisor: Professor Amit Sethi
-* <b> Project Staff 2012-13: Project Assistant </b>
-  * Indian Institute of Technology Hyderabad
-  * Duties included:
-    * Development of Piezo-electric sensor
-    * Interfacing of the sensor with driver electronics
-  * Supervisor: Professor Ranjith Ramadurai 
+* <b> Dual Degree Student 2019-20</b>
+  * Medical Deep Learning and Artificial Intelligence Lab, IIT Bombay
+  * Built an end-to-end pipeline for uncertainty estimation in cancer survival prediction using genomics information and some clinical features available in TCGA-BRCA
+  * Supervisor: Prof. Amit Sethi[https://www.ee.iitb.ac.in/~asethi/]
+* <b> Undergraduate Researcher 2018-19 </b>
+  * Mechanobiology lab, National University of Singapore
+  * Stochastic and deterministic reaction diffusion modeling and in-vitro experiments help discover the positive feedback present in Rab5 activation switch
+  * Supervisor: Prof. Timothy Saunders[https://mbi.nus.edu.sg/timothy-saunders/] 
+* <b> Undergraduate Researcher 2018-19 </b>
+  * Biomolecular Engineering Lab, IIT Bombay
+  * Designed community detection algorithms which takes care of functional commonality of proteins in the hand-crafted protein-protein interaction network for TNF alpha signaling
+  * Supervisor: Prof. Ganesh Viswanathan[https://www.che.iitb.ac.in/online/faculty/ganesh-a-viswanathan] 
+* <b> Undergraduate Researcher 2018-18 </b>
+  * SLCU, University of Cambridge
+  * Developed Image processing pipeline and computational spatio-temporal models to quantify and explain the red bull's pattern in Hibiscus Trionum petals
+  * Supervisor: Prof. Edwige Moyroud[https://www.slcu.cam.ac.uk/people/dr-edwige-moyroud] 
+
 
 Scholastic Achievements
 ======
-* Recipient PG Passing-out Color (Sports), Gymkhana Awards 2018-2019, IIT Bombay
-* Reviewer for CDC 2019
-* Reviewer for MICCAI 2018
-* Judge for e-Yantra Symposium(eYS) 2018
-* Judge for  Avriti 2018, Avriti 2017
+* Recipient of the <b>Institute Academic Prize</b> at IIT Bombay 2017
+* Among <b>top 3<b/> in Electrical Engineering batch of 70 students
+* Awarded <b>TFI-LEaRN Scholarship</b> for semester exchange in NUS
+* Awarded an <b>A+ Grade</b> in 3 courses: Biopotential I, Computer Vision and Computational Biology
    
-Projects & Talks
+Teaching Experience
 ======
-  <ul>{% for post in site.talks reversed%}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* Teaching Assistant for following courses:
+  * <b>BB101<\b>: Introduction to Biology          Spring, 2017
+  * <b>MA205<\b>: Complex Analysis                 Autumn, 2018
+  * <b>MA207<\b>: Partial Differential Equations   Autumn, 2018
+  * <b>EE308<\b>: Communication Systems            Autumn, 2019
 
-Service and leadership
+Campus Activities & Positions held
 ======
-* Mentored and collaborated in 10 master thesis at Electrical Engineering, IIT Bombay
-* Coach and Manager for National Ultimate Frisbee Team, IIT Bombay (2017-2019)
-* Sports Councilor, Hostel 1, IIT Bombay (2016-2017)
-* Teaching Assitant for Introduction to Machine Learning, Digital Image Processing, Applied Linear Algebra, Matrix Computations.
+* Biotech Club Manager[https://stab-iitb.org/}{Institute Technical Council]
+  * Part of 55 member council responsible for developing and promoting technical activities in institute
+  * Headed team of 3 conveners with aim of promoting events and projects in interdisciplinary Biology
+* Marketing Coordinator, Techfest[https://techfest.org/]
+  * Guided and coordinated with a team of 10 students to procure sponsorships worth INR 1 million
+  * Assisted in setting up 150+ Diabetes Screening Camps to spread awareness among 100,000+ people
+* Volunteered in National Social Service[https://nss.gov.in/], India to promote a green campus
 
 Technical Skills
 ======
 
 | <b>Programming languages</b> |                <b>Python, C/C++, R</b>               |
 |   <b>Software Libraries</b>  |       <b>TensorFlow, PyTorch, Keras, Torch</b>       |
-|         <b>Tools</b>         | <b>MATLAB, NI Labview, Scilab, Sage, Mathematica</b> |
