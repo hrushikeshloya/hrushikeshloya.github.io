@@ -58,7 +58,7 @@ Teaching Experience
 
 Campus Activities & Positions held
 ======
-* [Biotech Club] Manager(https://stab-iitb.org/Institute Technical Council)
+* [Biotech Club Manager](https://stab-iitb.org/Institute Technical Council)
   * Part of 55 member council responsible for developing and promoting technical activities in institute
   * Headed team of 3 conveners with aim of promoting events and projects in interdisciplinary Biology
 * Marketing Coordinator, [Techfest](https://techfest.org/)
@@ -71,5 +71,5 @@ Academic Domain
 
 * <b>Probability and Stats: </b> Advanced Concentration Inequalities, Probabilistic Models, Probability and Random Processes, Data Analysis and Interpretation
 * <b>Computer Science: </b> Data Structures and Algorithms, Operating Systems, Discrete Structures, Logic for Computer Science, Computer Vision and Pattern Recognition
-* <b>Machine Learning:</b> Introduction to Fuzzy / Neural Systems, Science of Information, Statistics, \& Learning, Advanced Topics in Machine Learning 
+* <b>Machine Learning:</b> Introduction to Fuzzy/Neural Systems, Science of Information, Statistics & Learning, Advanced Topics in Machine Learning 
 * <b>Biology:</b> Introduction to Biology, Introduction to Computational Biology, Medical Image Computing, Biopotentials I: Cellular Signals, Medical Sensors 
