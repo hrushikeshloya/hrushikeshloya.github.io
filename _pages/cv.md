@@ -21,7 +21,7 @@ Publications
   
 Research Experience
 ======
-* <b> Dual Degree Student 2019-20</b>
+* <b> Masters Thesis Project 2019-20</b>
   * Medical Deep Learning and Artificial Intelligence Lab, IIT Bombay
   * Built an end-to-end pipeline for uncertainty estimation in cancer survival prediction using genomics information and some clinical features available in TCGA-BRCA
   * Supervisor: [Prof. Amit Sethi](https://www.ee.iitb.ac.in/~asethi/)
@@ -33,7 +33,7 @@ Research Experience
   * Biomolecular Engineering Lab, IIT Bombay
   * Designed community detection algorithms which takes care of functional commonality of proteins in the hand-crafted protein-protein interaction network for TNF alpha signaling
   * Supervisor: [Prof. Ganesh Viswanathan](https://www.che.iitb.ac.in/online/faculty/ganesh-a-viswanathan)
-* <b> Undergraduate Researcher 2018-18 </b>
+* <b> Visiting Researcher 2018-18 </b>
   * SLCU, University of Cambridge
   * Developed Image processing pipeline and computational spatio-temporal models to quantify and explain the red bull's pattern in Hibiscus Trionum petals
   * Supervisor: [Prof. Edwige Moyroud](https://www.slcu.cam.ac.uk/people/dr-edwige-moyroud)
