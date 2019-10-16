@@ -5,7 +5,7 @@ permalink: /publication/tnf1
 date: 2019-05-15
 excerpt: This paper identifies few components present in TNFa signalling which when perturbed leads to phenotype switch. It uses graph-theory based based dimensionality reduction technique to identify the candidates.
 venue: 'TNF Superfamily'
-image: 'tnf1.png'
+image: 'tnf-1.png'
 ---
 Tumor Necrosis Factor alpha (TNFα) is a pleiotropic
 cytokine involved in phenotypic decisions such as
