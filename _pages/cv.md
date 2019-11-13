@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * <b>B.Tech + M.Tech</b> in [Electrical Engineering](https://www.ee.iitb.ac.in) (Specialization in Communication and Signal Processing), Indian Institute of Technology Bombay, 2020 
-  * GPA: <b>9.42/10</b>
+  * GPA: <b>9.48/10</b>
   * Minor in [Computer Science & Engineering](https://cse.iitb.ac.in)
 
 Publications
@@ -44,7 +44,7 @@ _Sainsbury Lab Cambridge University, University of Cambridge_
 Scholastic Achievements
 ======
 * Recipient of the <b>Institute Academic Prize</b> at IIT Bombay 2017
-* Among <b>top 3</b> in Electrical Engineering batch of 70 students
+* Among <b>top 3</b> in Electrical Engineering batch of 82 students
 * Awarded <b>TFI-LEaRN Scholarship</b> for semester exchange in NUS
 * Awarded an <b>A+ Grade</b> in 3 courses: Biopotential I, Computer Vision and Computational Biology
    
