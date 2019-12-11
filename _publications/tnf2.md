@@ -39,4 +39,4 @@ therapeutic strategies.
 ### Citation
 '<b>Hrushikesh Loya</b>, Shubhank Sherekar, Sonal Manohar, Sharmila Biswas, Reshma Patil, Ganesh Viswanathan (2019). &quot;Phenotype Switching during TNFa - TNRF1 Signaling; 2019 Sep 30- Oct 2; Mumbai, India</i>.'
 
-[Paper Link](https://www.sgrfconferences.org/2019/NGBT/program.php)
+[Paper Link](https://hrushikeshloya.github.io/images/tnf-2-poster.pdf)
