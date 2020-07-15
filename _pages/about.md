@@ -9,7 +9,7 @@ redirect_from:
 
 My name is Hrushikesh Loya, and I am an Undergraduate in the [Department of Electrical Engineering](https://www.ee.iitb.ac.in/web) at [IIT Bombay](http://www.iitb.ac.in/). I am pursuing my Master's thesis in the domain of Bioinformatics, more specifically data driven cancer research at MeDAL (Medical Deep Learning and Artificial Intelligence Lab). I have worked in the area of Computational Biology, Systems Biology and Machine Learning. I also have a keen interest in the field of Deep learning, Bayesian Inference and AI Safety.
 
-I maintain a list of my publications and research implementations under the [Publications]({{ site.url }}/publications) tab. To get an insight into my professional life so far, you can have a look at my [CV](/images/Hrushikesh_Loya_IITB_CV_company (3).pdf).
+I maintain a list of my publications and research implementations under the [Publications]({{ site.url }}/publications) tab. To get an insight into my professional life so far, you can have a look at my [CV](/images/Hrushikesh_Loya_IITB_CV_company15Jul.pdf).
 
 ## Updates
 * <b>Feb 2020:</b> A paper "Uncertainty Estimation in Cancer Survival Prediction" got accepted for ICLR Workshop on AI for Affordable Healthcare, 2020
