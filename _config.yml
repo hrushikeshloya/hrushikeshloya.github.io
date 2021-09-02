@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hrushikesh Loya"
 title_separator          : "-"
 name                     : &name "Hrushikesh Loya"
-description              : &description "Ph.D., University of Oxford"
+description              : &description "PhD, University of Oxford"
 url                      : ""# the base hostname & protocol for your site e.g. "https://hrushikeshloya.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hrushikeshloya.github.io"
@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Hrushikesh Loya"
   avatar           : "profile_pic.jpg"
-  bio              : "Ph.D., University of Oxford"
+  bio              : "PhD, University of Oxford"
   location         : "Oxford, UK"
   employer         : 
   pubmed           : 
