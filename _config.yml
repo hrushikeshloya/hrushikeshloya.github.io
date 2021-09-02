@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hrushikesh Loya"
 title_separator          : "-"
 name                     : &name "Hrushikesh Loya"
-description              : &description "B.Tech + M.Tech, IIT Bombay"
+description              : &description "Ph.D., University of Oxford"
 url                      : ""# the base hostname & protocol for your site e.g. "https://hrushikeshloya.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hrushikeshloya.github.io"
@@ -82,9 +82,9 @@ analytics:
 # Site Author
 author:
   name             : "Hrushikesh Loya"
-  avatar           : "bio-photo-1.jpg"
-  bio              : "B.Tech + M.Tech, IIT Bombay (Mob: 9769316234)"
-  location         : "Mumbai"
+  avatar           : "profile_pic.jpg"
+  bio              : "Ph.D., University of Oxford"
+  location         : "Oxford, UK"
   employer         : 
   pubmed           : 
 #   googlescholar    : "https://scholar.google.com/citations?user=uqL12FYAAAAJ&hl=en&oi=ao"
