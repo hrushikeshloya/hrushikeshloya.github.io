@@ -1,7 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Uncertainty Estimation in Cancer Survival Prediction"
+excerpt: "Accepted in AI for affordable health workshop at ICLR 2019"
 collection: portfolio
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+[Slides](https://github.com/hrushikeshloya/hrushikeshloya.github.io/files/7104095/Uncertainty.in.cancer.survival.prediction.pdf)
