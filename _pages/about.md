@@ -12,6 +12,8 @@ My name is Hrushikesh Loya, and I am a PhD scholar in the [Department of Statist
 I maintain a list of my publications and research implementations under the [Publications]({{ site.url }}/publications) tab. To get an insight into my professional life so far, you can have a look at my [CV](/images/Hrushikesh_Loya_IITB_CV_company.pdf).
 
 ## Updates
+* <b>Oct 2020:</b> Starting my PhD at university of Oxford as a Clarendon scholar and Medical Sciences CDT awardee
+
 * <b>Feb 2020:</b> A paper "Uncertainty Estimation in Cancer Survival Prediction" got accepted for ICLR Workshop on AI for Affordable Healthcare, 2020
 
 * <b>Jan 2020:</b> A paper "Stochastic Activation and Bistability in a Rab GTPase Regulatory Network" published in PNAS
