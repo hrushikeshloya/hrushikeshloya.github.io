@@ -9,7 +9,7 @@ redirect_from:
 
 My name is Hrushikesh Loya, and I am a PhD scholar in the [Department of Statistics](http://www.stats.ox.ac.uk/) at [University of Oxford](http://www.ox.ac.uk/). I am pursuing my Doctoral research with [Prof. Simon Myers](https://www.stats.ox.ac.uk/all-people/simon-myers/) and [Prof. Pier Palamara](http://www.stats.ox.ac.uk/all-people/pier-francesco-palamara/) in the domain of statistical and population genetics. I am working on improving genealogy inference and applying these genealogies for problems ranging from demographic inference to phenotype prediction. I have also worked on survival analysis and probabilitic machine learning and have keen interests in Deep learning, Bayesian Inference and AI Safety.
 
-I maintain a list of my publications and research implementations under the [Publications]({{ site.url }}/publications) tab. To get an insight into my professional life so far, you can have a look at my [CV](/images/Hrushikesh_Loya_IITB_CV_company (3).pdf).
+I maintain a list of my publications and research implementations under the [Publications]({{ site.url }}/publications) tab. To get an insight into my professional life so far, you can have a look at my [CV](/images/Hrushikesh_Loya_IITB_CV_company_oct.pdf).
 
 ## Updates
 * <b>Oct 2020:</b> Starting my PhD at university of Oxford as a Clarendon scholar and Medical Sciences CDT awardee
