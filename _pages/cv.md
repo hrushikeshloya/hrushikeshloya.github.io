@@ -19,7 +19,7 @@ For more details, you can download the pdf version of my [CV](/images/hrushikesh
 
 **IIT Bombay**, India  
 *B.Tech. + M.Tech. in Electrical Engg.* (2015 – 2020)  
-- Rank: 3/82 | GPA: 9.54/10  
+- Rank: 3/82; GPA: 9.54/10  
 - Specialization: Communication & Signal Processing  
 
 ---
@@ -79,4 +79,4 @@ For more details, you can download the pdf version of my [CV](/images/hrushikesh
 
 # 🌟 Extras  
 - Languages: English (Fluent), Hindi (Native)  
-- Interests: ✈️ Travel | 🏏 Cricket | ⛰ Hiking | 🧗 Sport Climbing  
+- Interests: ✈️ Travel 🏏 Cricket ⛰ Hiking 🧗 Sport Climbing  

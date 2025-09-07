@@ -14,3 +14,7 @@ My research focuses on population and quantitative genetics, situated at the int
 Prior to Oxford, I earned my B.Tech. + M.Tech. degree in Electrical Engineering from IIT Bombay, India.  
 
 You can find a full list of my publications on [Google Scholar](https://scholar.google.com/citations?user=EqdxCJ4AAAAJ&hl=id) and a detailed overview of my academic background on my [CV](/images/hrushikesh_loya_CV_2025_09.pdf).  
+
+### 📬 Contact
+
+My email is hrushikesh.loya@stats.ox.ac.uk
