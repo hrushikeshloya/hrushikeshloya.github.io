@@ -39,3 +39,16 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+body {
+  font-size: 18px;     // increase global text
+  line-height: 1.7;    // better readability
+}
+
+.page__content {
+  font-size: 18px;     // just for page/post content
+}
+
+h1 { font-size: 2.2em; }
+h2 { font-size: 1.8em; }
+h3 { font-size: 1.4em; }

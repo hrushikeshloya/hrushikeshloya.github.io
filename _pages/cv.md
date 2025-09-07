@@ -26,8 +26,8 @@ For more details, you can download the pdf version of my [CV](/images/hrushikesh
 
 # 💼 Work Experience  
 **Postdoctoral Researcher** – Oxford Stats Dept. (2025–)  
-- 🧬 Genealogy-based evolutionary analysis across ancient humans  
-- ⚡ Built scalable inference for fast & accurate genome fine-mapping  
+- 🧬 Designed a genealogy-based approach to understand deep human past
+- ⚡ Built a scalable inference method for whole-genome fine-mapping  
 
 **Research Consultant** – Ossian Biosciences, USA (2025–)  
 - 💡 Strategic input → helped raise $1M pre-seed  
@@ -58,13 +58,13 @@ For more details, you can download the pdf version of my [CV](/images/hrushikesh
 
 # 👩‍🏫 Teaching & Mentorship  
 - Co-supervised: Ph.D. (1), M.Sc. (1), Ph.D. rotations (2)  
-- Tutor/TA: Probability, Simulation, Comms Systems, Math courses  
+- Tutor/TA: Probability, Simulation Methods, Communication Systems, Math courses  
 
 ---
 
 # 🎤 Talks & Service  
-- Oral: ProbGen (2024), Ancient Genomes (upcoming)  
-- Invited: UCL, Oxford Stats, BDI/WHG seminars  
+- Oral: ProbGen (2024), Ancient Genomes (2025)  
+- Invited: UCL UGI, Oxford Stats, Oxford BDI/CHG  
 - Reviewer: ICLR, ICML, Nature Genetics  
 
 ---
