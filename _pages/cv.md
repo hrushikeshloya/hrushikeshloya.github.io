@@ -40,11 +40,11 @@ For more details, you can download the pdf version of my [CV](/images/hrushikesh
 ---
 
 # 📚 Publications (selected)  
-- *A Scalable Variational Inference Approach for Increased Mixed-model Association Power*. *Nature Genetics*, 2025.  
-- *Fast Variance Component Analysis using Large-Scale Ancestral Recombination Graphs*. *Cell Genomics*, 2025.  
-- *COIN++: Neural Compression Across Modalities*. *Transactions on Machine Learning Research (TMLR)*, 2022.  
-- *Uncertainty Estimation in Cancer Survival Prediction*. *ICLR Workshop*, 2020.  
-- *Stochastic Activation and Bistability in a Rab GTPase Network*. *Proceedings of the National Academy of Sciences (PNAS)*, 2020.  
+- A Scalable Variational Inference Approach for Increased Mixed-model Association Power. *Nature Genetics*, 2025.  
+- Fast Variance Component Analysis using Large-Scale Ancestral Recombination Graphs. *Cell Genomics*, 2025.  
+- COIN++: Neural Compression Across Modalities. *TMLR*, 2022.  
+- Uncertainty Estimation in Cancer Survival Prediction. *ICLR Workshop*, 2020.  
+- Stochastic Activation and Bistability in a Rab GTPase Network. *PNAS*, 2020.  
 
 ---
 
