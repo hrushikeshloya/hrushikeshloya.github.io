@@ -30,12 +30,12 @@ For more details, you can download the pdf version of my [CV](/images/hrushikesh
 - ⚡ Built a scalable inference method for whole-genome fine-mapping  
 
 **Research Consultant** – Ossian Biosciences, USA (2025–)
-- 💡 Strategic input → helped raise $1M pre-seed  
+- 💡 Advised on the scientific strategy, helped raise $1M investment
 - 📊 Curated omics & GWAS datasets for target prioritization  
 
 **Research Intern** – Samsung AI, Cambridge (2022–23)
 - 🤖 Meta-learning for Neural Architecture Search  
-- 🏅 First-authored UK Patent  
+- 🏅 Secured a first-authored UK Patent  
 
 ---
 
