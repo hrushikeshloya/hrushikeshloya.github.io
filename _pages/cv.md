@@ -13,27 +13,27 @@ For more details, you can download the pdf version of my [CV](/images/hrushikesh
 
 # 🎓 Education  
 **University of Oxford**, UK  
-*Ph.D. Genomic Medicine & Statistics* (2020 – 2025)<div style="margin-top:-0.5em;"></div>
+*Ph.D. Genomic Medicine & Statistics* (2020 – 2025)
 - Supervisors: Prof. Simon Myers, Prof. Pier Palamara  
 - Thesis: *New methods for genome-wide ancestry & trait association*  
 
 **IIT Bombay**, India  
-*B.Tech. + M.Tech. in Electrical Engg.* (2015 – 2020)<div style="margin-top:-0.5em;"></div>
+*B.Tech. + M.Tech. in Electrical Engg.* (2015 – 2020)
 - Rank: 3/82; GPA: 9.54/10  
 - Specialization: Communication & Signal Processing  
 
 ---
 
 # 💼 Work Experience  
-**Postdoctoral Researcher** – Oxford Stats Dept. (2025–)<div style="margin-top:-0.5em;"></div>
+**Postdoctoral Researcher** – Oxford Stats Dept. (2025–)
 - 🧬 Designed a genealogy-based approach to understand deep human past
 - ⚡ Built a scalable inference method for whole-genome fine-mapping  
 
-**Research Consultant** – Ossian Biosciences, USA (2025–)<div style="margin-top:-0.5em;"></div>
+**Research Consultant** – Ossian Biosciences, USA (2025–)
 - 💡 Strategic input → helped raise $1M pre-seed  
 - 📊 Curated omics & GWAS datasets for target prioritization  
 
-**Research Intern** – Samsung AI, Cambridge (2022–23)<div style="margin-top:-0.5em;"></div>
+**Research Intern** – Samsung AI, Cambridge (2022–23)
 - 🤖 Meta-learning for Neural Architecture Search  
 - 🏅 First-authored UK Patent  
 
