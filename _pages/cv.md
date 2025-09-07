@@ -9,67 +9,100 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* <b>B.Tech + M.Tech</b> in [Electrical Engineering](https://www.ee.iitb.ac.in) (Specialization in Communication and Signal Processing), Indian Institute of Technology Bombay, 2020 
-  * GPA: <b>9.48/10</b>
-  * Minor in [Computer Science & Engineering](https://cse.iitb.ac.in)
+# Hrushikesh Loya
 
-Publications
-======
-  <ul>{% for post in site.publications reversed%}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Research Experience
-======
-* <b> Masters Thesis Project</b> (Apr '19 - Present)  
-_Medical Deep Learning and Artificial Intelligence Lab, IIT Bombay_
-  * Built an end-to-end pipeline for uncertainty estimation in cancer survival prediction using genomics information and some clinical features available in TCGA-BRCA
-  * Supervisor: [Prof. Amit Sethi](https://www.ee.iitb.ac.in/~asethi/)
-* <b> Undergraduate Researcher</b> (Aug '18 - Sep '19)  
-_Mechanobiology Lab, National University of Singapore_
-  * Stochastic and deterministic reaction diffusion modeling and in-vitro experiments help discover the positive feedback present in Rab5 activation switch
-  * Supervisor: [Prof. Timothy Saunders](https://mbi.nus.edu.sg/timothy-saunders/)
-* <b> Undergraduate Researcher</b> (Dec' 17 - Dec' 18)  
-_Biomolecular Engineering Lab, IIT Bombay_
-  * Designed community detection algorithms which takes care of functional commonality of proteins in the hand-crafted protein-protein interaction network for TNF alpha signaling
-  * Supervisor: [Prof. Ganesh Viswanathan](https://www.che.iitb.ac.in/online/faculty/ganesh-a-viswanathan)
-* <b> Visiting Researcher</b> (May '18 - Aug '18)   
-_Sainsbury Lab Cambridge University, University of Cambridge_
-  * Developed Image processing pipeline and computational spatio-temporal models to quantify and explain the red bull's pattern in Hibiscus Trionum petals
-  * Supervisor: [Prof. Edwige Moyroud](https://www.slcu.cam.ac.uk/people/dr-edwige-moyroud)
+**Department of Statistics, University of Oxford, Oxford, UK**  
+📧 hrushikesh.loya@stats.ox.ac.uk  
 
+---
 
-Scholastic Achievements
-======
-* Recipient of the <b>Institute Academic Prize</b> at IIT Bombay 2017
-* Among <b>top 3</b> in Electrical Engineering batch of 82 students
-* Awarded <b>TFI-LEaRN Scholarship</b> for semester exchange in NUS
-* Awarded an <b>A+ Grade</b> in 3 courses: Biopotential I, Computer Vision and Computational Biology
-   
-Teaching Experience
-======
-* Teaching Assistant for following courses:
-  * <b>BB101</b>: Introduction to Biology          (Spring, 2017)
-  * <b>MA205</b>: Complex Analysis                 (Autumn, 2018)
-  * <b>MA207</b>: Partial Differential Equations   (Autumn, 2018)
-  * <b>EE308</b>: Communication Systems            (Autumn, 2019)
+## Professional Summary
+I am a Postdoctoral Researcher in the Department of Statistics at the University of Oxford, advised by Prof. Simon Myers and Prof. Pier Palamara. My research focuses on population and quantitative genetics, situated at the intersection of genetics, machine learning, and statistics. I develop innovative analytical tools and methods to unravel the complexity of genetic variation and advance our understanding of how genomic data inform the phenotypic diversity and the demographic history of human populations.
 
-Campus Activities & Positions held
-======
-* Biotech Club Manager, [Institute Technical Council](https://stab-iitb.org/)
-  * Part of 55 member council responsible for developing and promoting technical activities in institute
-  * Headed team of 3 conveners with aim of promoting events and projects in interdisciplinary Biology
-* Marketing Coordinator, [Techfest](https://techfest.org/)
-  * Guided and coordinated with a team of 10 students to procure sponsorships worth INR 1 million
-  * Assisted in setting up 150+ Diabetes Screening Camps to spread awareness among 100,000+ people
-* Volunteered in [National Social Service](https://nss.gov.in/), India to promote a green campus
+---
 
-Academic Domain
-======
+## Education
 
-* <b>Probability and Stats: </b> Advanced Concentration Inequalities, Probabilistic Models, Probability and Random Processes, Data Analysis and Interpretation
-* <b>Computer Science: </b> Data Structures and Algorithms, Operating Systems, Discrete Structures, Logic for Computer Science, Computer Vision and Pattern Recognition
-* <b>Machine Learning:</b> Introduction to Fuzzy/Neural Systems, Science of Information, Statistics & Learning, Advanced Topics in Machine Learning 
-* <b>Biology:</b> Introduction to Biology, Introduction to Computational Biology, Medical Image Computing, Biopotentials I: Cellular Signals, Medical Sensors 
+**University of Oxford**, Oxford, UK  
+*Ph.D. in Genomic Medicine and Statistics*  
+*Oct 2020 – Jan 2025*  
+- Supervisors: Prof. Simon Myers and Prof. Pier Palamara  
+- Thesis: *Powerful new methods for decomposing genome-wide ancestry and performing trait association*
+
+**Indian Institute of Technology Bombay**, Mumbai, India  
+*B.Tech. + M.Tech. in Electrical Engineering*  
+*Jul 2015 – Jul 2020*  
+- Class rank: 3 out of 82  
+- GPA: 9.54/10  
+- Specialization in Communication & Signal Processing  
+
+---
+
+## Work Experience
+
+**Postdoctoral Researcher**  
+*Department of Statistics, University of Oxford, UK*  
+*Jan 2025 – Present*  
+- Designed and applied a genealogy-based approach to study evolutionary dynamics across ancient human species  
+- Developed a scalable statistical inference method that accelerates whole-genome functional fine-mapping of causal variants, delivering both improved accuracy and significant speedup over traditional approaches  
+
+**Research Consultant**  
+*Ossian Biosciences, Delaware, USA*  
+*Feb 2025 – Present*  
+- Advised on the scientific strategy and technical roadmap, contributing to the raise of $1M in pre-seed investments  
+- Conducted literature reviews and curated public omics and GWAS summary datasets; performed preliminary analyses for sarcopenia-focused target prioritization  
+
+**Research Intern**  
+*Samsung AI Center, Cambridge, UK*  
+*Aug 2022 – Feb 2023*  
+- Developed a novel meta-learning framework leveraging task-level correlations across diverse search spaces to enhance neural architecture search in under-represented domains  
+- Secured a first-authored UK Patent for innovative contributions to neural architecture search methodologies  
+
+---
+
+## Publications
+1. H. Loya, P.F. Palamara, L. Speidel, S.R. Myers, *Genealogy-based Detection of Ancient Ghost Admixture Across Africa*. In preparation.  
+2. H. Loya, G. Kalantzis, F. Cooper, P.F. Palamara, *A Scalable Variational Inference Approach for Increased Mixed-model Association Power*. *Nature Genetics*, 2025.  
+3. J. Zhu, G. Kalantzis, A. Pazokitoroudi, H. Loya, H. Chen, S. Sankararaman, P.F. Palamara, *Fast Variance Component Analysis using Large-Scale Ancestral Recombination Graphs*. *Cell Genomics*, 2025.  
+4. N. Bird, H. Loya, L. Speidel, S.R. Myers, G. Hellenthal, *The Reliability of Inferred Archaic Segments in Human Genomes*. *EJHG*, 2025.  
+5. H. Loya, Ł. Dudziak, A. Mehrotra, R. Lee, J. Fernandez-Marques, N. Lane, H. Wen, *How Much Is Hidden in the NAS Benchmarks? Few-Shot Adaptation of a NAS Predictor*. Preprint, 2023.  
+6. E. Dupont*, H. Loya*, M. Alizadeh, A. Golinski, Y. W. Teh, A. Doucet, *COIN++: Neural Compression Across Modalities*. *TMLR*, 2022.  
+7. C. Lance, M. Luecken, D. Burkhardt, R. Cannoodt, … *Multimodal Single Cell Data Integration Challenge: Results and Lessons Learned*. *PMLR*, 2022.  
+8. H. Loya, P. Poduval, D. Anand, N. Kumar, A. Sethi, *Uncertainty Estimation in Cancer Survival Prediction*. *ICLR Workshop*, 2020.  
+9. U. Bezaljak, H. Loya, B. Kaczmarek, M. Loose, T. Saunders, *Stochastic Activation and Bistability in a Rab GTPase Network*. *PNAS*, 2020.  
+10. P. Poduval, H. Loya, A. Sethi, *Functional Space Variational Inference for Uncertainty Estimation in Computer Aided Diagnosis*. *MIDL*, 2020.  
+11. H. Loya, D. Anand, P. Poduval, N. Kumar, A. Sethi, *Bayesian Framework for Cancer Survival Prediction*. *Annals of Oncology*, 2019.  
+
+---
+
+## Awards
+- **Global Talent Visa**: Exceptional Promise, endorsed by the Royal Society (Sep 2025)  
+- **Clarendon Scholarship**: Top 200 Ph.D. applicants, academic merit (May 2020)  
+- **Medical Sciences CDT Award**: Ph.D. funding, worth $100,000 (May 2020)  
+- **Undergraduate Research Award**: Master’s thesis research (Apr 2020)  
+- **TFI-LEaRN Scholarship**: Semester exchange funding, $6,500 (Aug 2018)  
+- **IIT Institute Academic Prize**: Top 2 out of 100+ students (Jun 2017)  
+
+---
+
+## Teaching & Mentorship
+- Project Co-supervisor: Ph.D. (1), Ph.D. rotations (2), M.Sc. (1), Oxford, UK  
+- Tutor: SB3, Applied Probability, Oxford, UK  
+- Teaching Assistant: SC5 Advanced Simulation Methods (Oxford), EE308 Communication Systems (Mumbai), MA207 Differential Equations II (Mumbai), MA205 Complex Analysis (Mumbai)  
+
+---
+
+## Talks, Academic Services, and Interests
+- Oral presentations: Ancient Genomes conference (top 10% abstracts, upcoming); Probabilistic Models in Genetics (ProbGen, Apr 2024)  
+- Invited talks: UCL Genetics Institute (London), Department of Statistics (Oxford), BDI/WHG genomics seminar (Oxford), CHG lunchtime talk (Oxford)  
+- Reviewer for conferences/journals: ICLR 2021, ICML 2022, Nature Genetics 2024  
+- **Languages**: English (Fluent), Hindi (Native)  
+- **Interests**: Travelling, Cricket, Hiking, Sport Climbing  
+
+---
+
+## Skills
+- **Programming**: Python, R, MATLAB, Julia, C++, C, SQL, Java  
+- **ML/Stats Libraries**: NumPy, Pandas, Scikit-learn, PyTorch, JAX  
+- **Bioinformatics**: Bcftools, Vcftools, Samtools, Picard, Relate  
+- **Tools**: Git, LaTeX, Terminal, HDF5, HTML  

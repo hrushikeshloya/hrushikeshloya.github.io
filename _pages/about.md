@@ -7,19 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-My name is Hrushikesh Loya, and I am a PhD scholar in the [Department of Statistics](http://www.stats.ox.ac.uk/) at [University of Oxford](http://www.ox.ac.uk/). I am pursuing my Doctoral research with [Prof. Simon Myers](https://www.stats.ox.ac.uk/all-people/simon-myers/) and [Prof. Pier Palamara](http://www.stats.ox.ac.uk/all-people/pier-francesco-palamara/) in the domain of statistical and population genetics. I am working on improving genealogy inference and applying these genealogies for problems ranging from demographic inference to phenotype prediction. I have also worked on survival analysis and probabilitic machine learning and have keen interests in Deep learning, Bayesian Inference and AI Safety.
+I am an **ERC-funded Postdoctoral Researcher** in the [Department of Statistics](http://www.stats.ox.ac.uk/) at the [University of Oxford](http://www.ox.ac.uk/). I completed my **DPhil in Genomic Medicine and Statistics**, jointly supervised by [Prof. Simon Myers](https://www.stats.ox.ac.uk/all-people/simon-myers/) and [Prof. Pier Palamara](http://www.stats.ox.ac.uk/all-people/pier-francesco-palamara/).  
 
-I maintain a list of my publications and research implementations under the [Publications]({{ site.url }}/publications) tab. To get an insight into my professional life so far, you can have a look at my [CV](/images/Hrushikesh_Loya_IITB_CV_company_oct.pdf).
+My research focuses on population and quantitative genetics, situated at the intersection of genetics, machine learning, and statistics. I develop innovative analytical tools and methods to unravel the complexity of genetic variation and advance our understanding of how genomic data inform the phenotypic diversity and the demographic history of human populations.
 
-## Updates
-* <b>Oct 2020:</b> Starting my PhD at university of Oxford as a Clarendon scholar and Medical Sciences CDT awardee
+Prior to Oxford, I earned my **B.Tech. + M.Tech. degree in Electrical Engineering** from **IIT Bombay, India**.  
 
-* <b>Feb 2020:</b> A paper "Uncertainty Estimation in Cancer Survival Prediction" got accepted for ICLR Workshop on AI for Affordable Healthcare, 2020
-
-* <b>Jan 2020:</b> A paper "Stochastic Activation and Bistability in a Rab GTPase Regulatory Network" published in PNAS
-
-* <b>Oct 2019:</b> Awarded Best Poster Award for "Phenotype Switching during TNFa - TNRF1 Signaling" at NGBT, 2019
-
-* <b>Sep 2019:</b> A paper "A Bayesian framework to quantify survival uncertainty" got accepted for ESMO MAP 2019
-
-* <b>May 2019:</b> A paper "Phenotype Switching during Tumor Necrosis Factor alpha signalling" got accepted for TNF Conference, 2019 
+You can find a full list of my publications on [Google Scholar](https://scholar.google.com/citations?user=EqdxCJ4AAAAJ&hl=id) and a detailed overview of my academic background on my [CV](/images/hrushikesh_loya_CV_2025_09.pdf).  

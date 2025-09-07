@@ -82,13 +82,13 @@ analytics:
 # Site Author
 author:
   name             : "Hrushikesh Loya"
-  avatar           : "profile_pic_climbing.jpg"
+  avatar           : "hrushi_bio_pic.jpg"
   bio              : "PhD, University of Oxford"
   location         : "Oxford, UK"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=EqdxCJ4AAAAJ"
-  email            : "loya@stats.ox.ac.uk"
+  email            : "hrushikesh.loya@stats.ox.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -110,7 +110,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "https://x.com/hrushikesh_loya"
   vine             :
   weibo            :
   xing             :
