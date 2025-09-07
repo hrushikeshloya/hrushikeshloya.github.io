@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an ERC-funded Postdoctoral Researcher in the [Department of Statistics](http://www.stats.ox.ac.uk/) at the [University of Oxford](http://www.ox.ac.uk/). I completed my DPhil in Genomic Medicine and Statistics, jointly supervised by [Prof. Simon Myers](https://www.stats.ox.ac.uk/all-people/simon-myers/) and [Prof. Pier Palamara](http://www.stats.ox.ac.uk/all-people/pier-francesco-palamara/).  
+I am an ERC-funded Postdoctoral Researcher in the Department of Statistics at the University of Oxford. I completed my DPhil in Genomic Medicine and Statistics, jointly supervised by Prof. Simon Myers and Prof. Pier Palamara.  
 
 My research focuses on population and quantitative genetics, situated at the intersection of genetics, machine learning, and statistics. I develop innovative analytical tools and methods to unravel the complexity of genetic variation and advance our understanding of how genomic data inform the phenotypic diversity and the demographic history of human populations.
 

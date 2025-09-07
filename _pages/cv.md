@@ -13,27 +13,27 @@ For more details, you can download the pdf version of my [CV](/images/hrushikesh
 
 # 🎓 Education  
 **University of Oxford**, UK  
-*Ph.D. Genomic Medicine & Statistics* (2020 – 2025)  
+*Ph.D. Genomic Medicine & Statistics* (2020 – 2025)
 - Supervisors: Prof. Simon Myers, Prof. Pier Palamara  
 - Thesis: *New methods for genome-wide ancestry & trait association*  
 
 **IIT Bombay**, India  
-*B.Tech. + M.Tech. in Electrical Engg.* (2015 – 2020)  
+*B.Tech. + M.Tech. in Electrical Engg.* (2015 – 2020)
 - Rank: 3/82; GPA: 9.54/10  
 - Specialization: Communication & Signal Processing  
 
 ---
 
 # 💼 Work Experience  
-**Postdoctoral Researcher** – Oxford Stats Dept. (2025–)  
+**Postdoctoral Researcher** – Oxford Stats Dept. (2025–)
 - 🧬 Designed a genealogy-based approach to understand deep human past
 - ⚡ Built a scalable inference method for whole-genome fine-mapping  
 
-**Research Consultant** – Ossian Biosciences, USA (2025–)  
+**Research Consultant** – Ossian Biosciences, USA (2025–)
 - 💡 Strategic input → helped raise $1M pre-seed  
 - 📊 Curated omics & GWAS datasets for target prioritization  
 
-**Research Intern** – Samsung AI, Cambridge (2022–23)  
+**Research Intern** – Samsung AI, Cambridge (2022–23)
 - 🤖 Meta-learning for Neural Architecture Search  
 - 🏅 First-authored UK Patent  
 
@@ -70,13 +70,13 @@ For more details, you can download the pdf version of my [CV](/images/hrushikesh
 ---
 
 # 🛠 Skills  
-**Programming:** Python, R, Julia, C++  
-**ML/Stats:** PyTorch, JAX, Sklearn  
-**Bioinformatics:** Relate, Samtools, Vcftools  
-**Other:** Git, LaTeX, HDF5  
+- **Programming:** Python, R, Julia, C++  
+- **ML/Stats:** PyTorch, JAX, Sklearn  
+- **Bioinformatics:** Relate, Samtools, Vcftools  
+- **Other:** Git, LaTeX, HDF5  
 
 ---
 
 # 🌟 Extras  
 - Languages: English (Fluent), Hindi (Native)  
-- Interests: ✈️ Travel 🏏 Cricket ⛰ Hiking 🧗 Sport Climbing  
+- Interests: ✈️ Travel   🏏 Cricket   ⛰ Hiking   🧗 Sport Climbing  
