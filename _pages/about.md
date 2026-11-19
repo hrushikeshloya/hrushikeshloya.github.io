@@ -11,7 +11,7 @@ My research focuses on population and quantitative genetics, situated at the int
 
 I earned my DPhil in Genomic Medicine and Statistics from the University of Oxford and a dual B.Tech. + M.Tech. degree in Electrical Engineering from IIT Bombay, India.
 
-You can find a full list of my publications on [Google Scholar](https://scholar.google.com/citations?user=EqdxCJ4AAAAJ&hl=id) and a detailed overview of my academic background on my [CV](/images/hrushikesh_loya_CV_2025_09.pdf).  
+You can find a full list of my publications on [Google Scholar](https://scholar.google.com/citations?user=EqdxCJ4AAAAJ&hl=id) and a detailed overview of my academic background on my [CV](/images/hrushikesh_loya_CV.pdf).  
 
 ### 📬 Contact
 
