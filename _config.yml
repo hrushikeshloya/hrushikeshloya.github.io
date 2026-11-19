@@ -124,6 +124,24 @@ include:
   - _pages
   - files
 exclude:
+  - "_pages/publications.md"
+  - "_pages/talks.html"
+  - "_pages/archive-layout-with-content.md"
+  - "_pages/category-archive.html"
+  - "_pages/collection-archive.html"
+  - "_pages/markdown.md"
+  - "_pages/non-menu-page.md"
+  - "_pages/page-archive.html"
+  - "_pages/portfolio.html"
+  - "_pages/tag-archive.html"
+  - "_pages/talkmap.html"
+  - "_pages/teaching.html"
+  - "_pages/year-archive.html"
+  - "_posts/2019-07-15-blog-post-1.md"
+  - "_teaching/2014-spring-teaching-1.md"
+  - "_teaching/2015-spring-teaching-2.md"
+  - "markdown_generator"
+  - "talkmap"
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
